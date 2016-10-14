@@ -346,9 +346,3 @@ setprior.copy <- function(prior,k,nullweight,null.comp){
   }
   return(prior)
 }
-
-
-## The evil part
-assignInNamespace("ash", value = bad_ash, ns = "ashr", envir = as.environment("package:ashr"))
-assignInNamespace("ash.workhorse", value = bad_ash.workhorse, ns = "ashr",
-                  envir = as.environment("package:ashr"))
