@@ -31,8 +31,8 @@ estimation. There are many extensions:
 [VASH](https://github.com/mengyin/vashr),
 [MIXASH](https://github.com/mengyin/mixash),
 [FASH](https://github.com/mengyin/ashlar-fash),
-[MASH](https://github.com/surbut/matrix_ash), and
-[SMASH](https://github.com/stephenslab/smashr),
+[MASH](https://github.com/surbut/matrix_ash),
+[SMASH](https://github.com/stephenslab/smashr), and
 [MVASH](https://github.com/stephenslab/mvash), among others.
 
 We introduce the `sabotash` package which, when loaded, will change
