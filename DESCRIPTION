@@ -5,6 +5,8 @@ Version: 0.1.0
 Authors@R: person("David", "Gerard", email = "dcgerard@uchicago.edu", role = c("aut", "cre"))
 Description: This package will take all of the functions in the NAMESPACE of
     ashr and modify them to output random numbers.
+URL: https://github.com/dcgerard/sabotash
+BugReports: http://github.com/dcgerard/sabotash/issues
 License: GPL-3
 LazyData: TRUE
 Remotes: github::stephens999/ashr
