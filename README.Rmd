@@ -32,7 +32,8 @@ estimation. There are many extensions:
 [MIXASH](https://github.com/mengyin/mixash),
 [FASH](https://github.com/mengyin/ashlar-fash),
 [MASH](https://github.com/surbut/matrix_ash), and
-[SMASH](https://github.com/zrxing/dscr-smash), among others.
+[SMASH](https://github.com/stephenslab/smashr),
+[MVASH](https://github.com/stephenslab/mvash), among others.
 
 We introduce the `sabotash` package which, when loaded, will change
 the namespace of `ashr` so that the functions `ashr::ash` and
