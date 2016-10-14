@@ -11,4 +11,5 @@ Remotes: github::stephens999/ashr
 Depends:
     ashr
 RoxygenNote: 5.0.1
-Suggests: testthat
+Suggests: testthat,
+    covr
