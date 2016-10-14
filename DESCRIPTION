@@ -1,0 +1,14 @@
+Package: sabotash
+Type: Package
+Title: Sabotage the results of ashr
+Version: 0.1.0
+Authors@R: person("David", "Gerard", email = "dcgerard@uchicago.edu", role = c("aut", "cre"))
+Description: This package will take all of the functions in the NAMESPACE of
+    ashr and modify them to output random numbers.
+License: GPL-3
+LazyData: TRUE
+Remotes: github::stephens999/ashr
+Depends:
+    ashr
+RoxygenNote: 5.0.1
+Suggests: testthat
